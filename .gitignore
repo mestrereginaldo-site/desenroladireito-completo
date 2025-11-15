@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+*.log
+*.bak
+*.repl
+.DS_Store
+**/.DS_Store
+*.tmp
+temp_*
+attached_assets
